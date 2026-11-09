@@ -1,9 +1,9 @@
 # Lumipage Reader
 
-**Lumipage reader** is a fast and lightweight PDF reader for Android devices.
+**Lumipage reader** is a fast and lightweight reader for Android devices.
 
 ## Features
-* Fast PDF rendering and smooth page scrolling
+* Fast rendering and smooth page scrolling
 * Clean and intuitive modern UI
 * Lightweight build with low memory footprint
 
