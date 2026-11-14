@@ -1,3 +1,5 @@
+**English** \ [Русский](https://github.com/music25054-prog/lumipage-reader/blob/main/README-RU.md)
+
 # Lumipage Reader
 
 **Lumipage reader** is a fast and lightweight reader for Android devices.
